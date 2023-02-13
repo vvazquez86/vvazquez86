@@ -35,17 +35,11 @@ class Skills {
 <br>
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-
-
-<br>
-<h4 align="center"> Thanks for Visiting!:innocent:</h4>
-<br>
-<br>
-📫 How to reach me: v.h.vazquez@live.com.ar
-<br>
-<br>
-
 [![Twitter: VVazquez86](https://img.shields.io/twitter/follow/vvazquez86?style=social)](https://twitter.com/vvazquez86)
 [![Linkedin: vhvazquez](https://img.shields.io/badge/-vhvazquez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vhvazquez/)](https://www.linkedin.com/in/vhvazquez/)
 [![GitHub VVazquez86](https://img.shields.io/github/followers/vvazquez86?label=follow&style=social)](https://github.com/vvazquez86)
 
+📫 How to reach me: v.h.vazquez@live.com.ar
+
+<br>
+<h4 align="center"> Thanks for Visiting!:innocent:</h4>
