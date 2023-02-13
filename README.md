@@ -2,6 +2,8 @@
 
 # Welcome to my github! 👋
 
+<br>
+<br>
 
 [![Twitter: VVazquez86](https://img.shields.io/twitter/follow/vvazquez86?style=social)](https://twitter.com/vvazquez86)
 [![Linkedin: vhvazquez](https://img.shields.io/badge/-vhvazquez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vhvazquez/)](https://www.linkedin.com/in/vhvazquez/)
@@ -30,6 +32,8 @@ class Skills {
 ![VVazquez86 github stats](https://github-readme-stats.vercel.app/api?username=vvazquez86&show_icons=true)
 
 ### 👨‍💻 Most used language
+
+<br>
 
 <img alt="VVazquez86's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvazquez86&hide=smalltalk&theme=buefy&layout=compact&hide_border=true" width="500"/>
 
