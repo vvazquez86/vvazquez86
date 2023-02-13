@@ -41,4 +41,7 @@ class Skills {
 <br>
 <br>
 <br>
+<h4 align="center"> Thanks for Visiting!:innocent:</h4>
+<br>
+<br>
 ⭐️ From [vvazquez86](https://github.com/vvazquez86)
