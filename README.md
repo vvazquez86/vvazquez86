@@ -1,5 +1,5 @@
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 # Welcome to my github! 👋
 
@@ -44,4 +44,4 @@ class Skills {
 <h4 align="center"> Thanks for Visiting!:innocent:</h4>
 <br>
 <br>
-⭐️ From [vvazquez86](https://github.com/vvazquez86)
+
