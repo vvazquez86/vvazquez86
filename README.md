@@ -28,9 +28,9 @@ class Skills {
 
 ### 🏆 Github Stats:
 
-<img alt="VVazquez's Github Stats" src="https://github-readme-stats.vvazquez86.vercel.app/api?username=vvazquez86&hide=stars&show_icons=true&hide_border=true&theme=buefy" width="500"/>
+![Apurv's github stats](https://github-readme-stats.vercel.app/api?username=ApurvShah007&show_icons=true)
 
-### 👨‍💻 most used language
+### 👨‍💻 Most used language
 
 <img alt="VVazquez86's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvazquez86&hide=smalltalk&theme=buefy&layout=compact&hide_border=true" width="500"/>
 
