@@ -2,7 +2,6 @@
 
 # Welcome to my github! 👋
 
-# Victor Hugo Vazquez&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
 [![Twitter: VVazquez86](https://img.shields.io/twitter/follow/vvazquez86?style=social)](https://twitter.com/vvazquez86)
 [![Linkedin: vhvazquez](https://img.shields.io/badge/-vhvazquez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vhvazquez/)](https://www.linkedin.com/in/vhvazquez/)
@@ -28,7 +27,7 @@ class Skills {
 
 ### 🏆 Github Stats:
 
-![Apurv's github stats](https://github-readme-stats.vercel.app/api?username=ApurvShah007&show_icons=true)
+![VVazquez86 github stats](https://github-readme-stats.vercel.app/api?username=vvazquez86&show_icons=true)
 
 ### 👨‍💻 Most used language
 
