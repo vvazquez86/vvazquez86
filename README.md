@@ -1,22 +1,21 @@
 <h1 align="center">Hi 👋, I'm Victor Hugo Vazquez</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-<p align="left"> <a href="https://twitter.com/@vvazquez" target="blank"><img src="https://img.shields.io/twitter/follow/@vvazquez?logo=twitter&style=for-the-badge" alt="@vvazquez" /></a> </p>
+<p align="left"> <a href="https://twitter.com/vvazquez86" target="blank"><img src="https://img.shields.io/twitter/follow/@vvazquez?logo=twitter&style=for-the-badge" alt="@vvazquez86 /></a> </p>
 
 - 🔭 I’m currently working on **Personal projects**
 
-- 🌱 I’m currently learning **React and Python**
+- 🌱 I’m currently learning **MERN and Phyton**
 
 - 👯 I’m looking to collaborate on **Web development**
 
-- 💬 Ask me about **HTML5, CCS3, Bootstrap and Javascript**
+- 💬 Ask me about **HTML5, CCS3, Bootstrap, Javascript and React**
 
 - 📫 How to reach me **v.h.vazquez@live.com.ar**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@vvazquez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@vvazquez86" height="30" width="40" /></a>
-<a href="https://instagram.com/ottovazquez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ottovazquez" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
