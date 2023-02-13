@@ -31,8 +31,7 @@ class Skills {
 <a href="https://github.com/vvazquez86">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvazquez86&theme=radical&hide=glsl,python" />
 </a>
-<br>
-<br>
+
 
 ### 🤝 Connect with Me
 
@@ -42,5 +41,5 @@ class Skills {
 
 📫 How to reach me: v.h.vazquez@live.com.ar
 
-<br>
+
 <h4 align="center"> Thanks for Visiting!:innocent:</h4>
