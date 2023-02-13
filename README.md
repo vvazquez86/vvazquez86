@@ -34,8 +34,6 @@ class Skills {
 
 ### 👨‍💻 Most used language
 
-<img alt="VVazquez86's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvazquez86&hide=smalltalk&theme=buefy&layout=compact&hide_border=true" width="500"/>
-
 <a href="https://github.com/vvazquez86">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvazquez86&theme=radical&hide=glsl,python" />
 </a>
