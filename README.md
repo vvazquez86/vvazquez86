@@ -1,7 +1,12 @@
-<h1 align="center">Hi 👋, I'm Victor Hugo Vazquez</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+# Victor Hugo Vazquez&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
-<p align="left"> <a href="https://twitter.com/vvazquez86" target="blank"><img src="https://img.shields.io/twitter/follow/@vvazquez?logo=twitter&style=for-the-badge" alt="@vvazquez86 /></a> </p>
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+
+[![Twitter: VVazquez86](https://img.shields.io/twitter/follow/vvazquez86?style=social)](https://twitter.com/vvazquez86)
+[![Linkedin: vhvazquez](https://img.shields.io/badge/-vhvazquez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vhvazquez/)](https://www.linkedin.com/in/vhvazquez/)
+[![GitHub VVazquez86](https://img.shields.io/github/followers/vvazquez86?label=follow&style=social)](https://github.com/vvazquez86)
+
+https://www.linkedin.com/in/vhvazquez/
 
 - 🔭 I’m currently working on **Personal projects**
 
