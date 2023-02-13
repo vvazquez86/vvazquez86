@@ -33,7 +33,8 @@ class Skills {
 </a>
 <br>
 <br>
-### 🤝🏻 &nbsp;Connect with Me
+
+### 🤝 Connect with Me
 
 [![Twitter: VVazquez86](https://img.shields.io/twitter/follow/vvazquez86?style=social)](https://twitter.com/vvazquez86)
 [![Linkedin: vhvazquez](https://img.shields.io/badge/-vhvazquez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vhvazquez/)](https://www.linkedin.com/in/vhvazquez/)
